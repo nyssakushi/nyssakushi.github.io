@@ -241,6 +241,7 @@ a.nav-link{
 	align-items: center;
 	justify-content: center;
 	color: var(--main-fonts-color);
+  background-color: var(--main-header-background);
 }
 	
 #contact p{
